@@ -1,0 +1,21 @@
+
+h3{text-align:center;
+font-style:italic}
+.navi{
+text-align:center;}
+body{
+  padding-top:40px;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align:center;
+  padding-right:10px;
+  
+  
+}
+ starter-template:hover{font-size:10px;color:blue;class:active;}
+.navbar-fixed-top {text-decoration:none;
+  border-bottom:2px solid #428bca;
+  }
+
